@@ -1,0 +1,62 @@
+body {
+    background-color: black;
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+header {
+    color: red;
+    text-align: center;
+   
+}
+
+h1 {
+    font-size: 45px;
+}
+
+h2 {
+    font-size: 35px;
+    padding: 20px;
+}
+
+.Info {
+    border: solid red 1pt;
+}
+
+div {
+    color:white;
+    text-align: center;
+    font-size: 30px;
+}
+
+li {
+    font-size: 20px;
+    text-align: left;
+    padding: 15px;
+    
+}
+
+#profile-pic {
+    height: 400x;
+    width: 400px; 
+    padding: 100px;
+}
+
+.Info2 {
+    border: solid red 1pt;
+}
+
+p{ 
+    text-align: left;
+    font-size: 15px;
+}
+
+footer {
+    border: solid red 1pt;
+}
+
+h3 {
+    font-size: 20px;
+    text-align: center;
+   
+}
